@@ -1,3 +1,3 @@
 let hello = "hello"
 
-export {hello}
+exports.hello = hello
