@@ -1,0 +1,22 @@
+{
+  "name": "@stijnu/my-test-package",
+  "version": "1.0.0",
+  "description": "package to test npm ",
+  "main": "test.js",
+  "scripts": {
+    "test": "kiestma"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StijnUytt/test-npm-package.git"
+  },
+  "author": "Stino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StijnUytt/test-npm-package/issues"
+  },
+  "homepage": "https://github.com/StijnUytt/test-npm-package#readme",
+  "dependencies": {
+    "my-test-package": "^1.0.0"
+  }
+}
