@@ -1,22 +1,19 @@
 {
-  "name": "@stijnu/my-test-package-public",
+  "name": "my-test-package-public",
   "version": "1.0.0",
-  "description": "package to test npm ",
+  "description": "",
   "main": "test.js",
   "scripts": {
-    "test": "kiestma"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/StijnUytt/test-npm-package-public.git"
   },
-  "author": "Stino",
+  "author": "stino",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/StijnUytt/test-npm-package-public/issues"
   },
-  "homepage": "https://github.com/StijnUytt/test-npm-package-public#readme",
-  "dependencies": {
-    "my-test-package": "^1.0.0"
-  }
+  "homepage": "https://github.com/StijnUytt/test-npm-package-public#readme"
 }
