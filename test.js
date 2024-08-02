@@ -1,5 +1,4 @@
 function generateCreateExternalTableSQL(table) {
-    tables.push(table)
     const {name, format, uris } = table;
     const uriList = uris.map(uri => `'${uri}'`).join(', ');
   
