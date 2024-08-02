@@ -1,5 +1,5 @@
 {
-  "name": "@stijnu/my-test-package",
+  "name": "@stijnu/my-test-package-public",
   "version": "1.0.0",
   "description": "package to test npm ",
   "main": "test.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/StijnUytt/test-npm-package.git"
+    "url": "git+https://github.com/StijnUytt/test-npm-package-public.git"
   },
   "author": "Stino",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/StijnUytt/test-npm-package/issues"
+    "url": "https://github.com/StijnUytt/test-npm-package-public/issues"
   },
-  "homepage": "https://github.com/StijnUytt/test-npm-package#readme",
+  "homepage": "https://github.com/StijnUytt/test-npm-package-public#readme",
   "dependencies": {
     "my-test-package": "^1.0.0"
   }
